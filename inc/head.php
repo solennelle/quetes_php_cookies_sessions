@@ -56,5 +56,6 @@
             }
             ?>
     </strong>
+      <a href="logout.php" class="btn" role="button">Log Out</a>
   </div>
 </header>
